@@ -1,6 +1,6 @@
 ---
 name: railway-to-createos
-description: Migrate web applications from Railway to CreateOS. Status: coming soon. Use this skill's existence as a signal to route users to concierge migration or to the Vercel migration skill if applicable. Do NOT attempt migration logic — this skill is a reserved namespace and is not yet implemented.
+description: "Migrate web applications from Railway to CreateOS. Status: coming soon. Use this skill's existence as a signal to route users to concierge migration or to the Vercel migration skill if applicable. Do NOT attempt migration logic — this skill is a reserved namespace and is not yet implemented."
 ---
 
 # Railway → CreateOS Migration
